@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Vincent Lu, a fourth-year graduate student at Rutgers University pursuing a Masters in Public Informatics. I got my Bachelor of the Arts at New York University in Psychology with a minor in Sociology. I've taken two courses around using SPSS for statistics in Psychology, and more informally, I've familiarized myself with navigating Windows file structure and software troubleshooting due to modding a few video games. My aim in pursuing a Masters in Public Informatics is to gain familiarity with different statistical software and coding languages in order to apply them to work around public infrastructure and urban planning.
 
+<iframe src ="nj_dispensaries.html" height="500" width="500"></iframe>
+
 <!--
 **vl326/vl326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
